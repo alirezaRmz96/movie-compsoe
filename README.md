@@ -14,3 +14,8 @@ that's the simple project you can use it for see some top movie and read details
 * kotlin-Coroutines / Flow
 * Room
 * Retrofit
+ 
+### Packages
+* data : Represents Room,model,Repository classes/interfaces,Network
+* domain : Represents use case of project
+* ui : that's has all of the code represent ui of application like navigation, screens and viewmodels also Dependency injection package of the application
