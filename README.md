@@ -6,3 +6,4 @@ that's the simple project you can use it for see some top movie and read details
 # Architecture
 * MVVM
 <sub>Tools & libraries/Technologies</sub>
+<font size="2"> This is my text number 2 </font>
