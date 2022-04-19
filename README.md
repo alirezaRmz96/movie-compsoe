@@ -19,3 +19,6 @@ that's the simple project you can use it for see some top movie and read details
 * data : Represents Room,model,Repository classes/interfaces,Network
 * domain : Represents use case of project
 * ui : that's has all of the code represent ui of application like navigation, screens and viewmodels also Dependency injection package of the application
+
+# Demo of app
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
