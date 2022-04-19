@@ -21,4 +21,8 @@ that's the simple project you can use it for see some top movie and read details
 * ui : that's has all of the code represent ui of application like navigation, screens and viewmodels also Dependency injection package of the application
 
 # Demo of app
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
+
+https://user-images.githubusercontent.com/73380694/163981126-d2cf29ff-ca28-4f36-8ba9-0ef619469cab.mp4
+
