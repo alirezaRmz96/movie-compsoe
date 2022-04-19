@@ -5,4 +5,4 @@ that's the simple project you can use it for see some top movie and read details
 
 # Architecture
 * MVVM
-## <sub><sup>Tools & libraries/Technologies</sup></sub>
+<sub>Tools & libraries/Technologies</sub>
