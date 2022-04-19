@@ -24,5 +24,9 @@ that's the simple project you can use it for see some top movie and read details
 
 
 
-https://user-images.githubusercontent.com/73380694/163981126-d2cf29ff-ca28-4f36-8ba9-0ef619469cab.mp4
+
+
+https://user-images.githubusercontent.com/73380694/163982543-17be1d76-92e0-45ae-b4e3-7c2470bc5b1b.mp4
+
+
 
