@@ -6,4 +6,4 @@ that's the simple project you can use it for see some top movie and read details
 # Architecture
 * MVVM
 
-# <font size="3">Tools & libraries/Technologies</font>
+## <font size="3">Tools & libraries/Technologies</font>
